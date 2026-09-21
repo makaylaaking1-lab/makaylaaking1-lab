@@ -1,14 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [Makayla]! 👋
 
-<!--
-**makaylaaking1-lab/makaylaaking1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a junior studying Business Analytics and Information Systems with a minor in Computer Science. I love learning new skills and collaborating with diverse teams to create innovative solutions.
 
-- 🔭 I’m currently working on ... school
-- 🌱 I’m currently learning ... Python
-- 💬 Ask me about ...
-- 📫 How to reach me: ... makayla-king@uiowa.edu
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Capybaras are my favorite animal
--->
+- 🌍 Languages: **[Python, SQL]**
+- 📫 How to reach me: **[makayla-king@uiowa.edu]**
+- ⚡ Fun fact: **[Volleyball is my favorite sport]**
+
+## Get in Touch 📬
+
+- LinkedIn : **[www.linkedin.com/in/makayla-a-king]**
+
+
