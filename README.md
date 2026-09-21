@@ -1,4 +1,4 @@
-# Hi there, I'm [Makayla]! 👋
+# Hi there, I'm Makayla! 👋
 
 ## About Me 🚀
 
